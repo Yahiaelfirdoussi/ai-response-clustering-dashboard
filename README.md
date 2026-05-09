@@ -119,5 +119,13 @@ numpy
 
 ## Author
 
-**Yahya Elfirdoussi** — Data Scientist & ML Engineer  
-[LinkedIn](https://linkedin.com/in/yahya-elfirdoussi) · [Portfolio](https://yahiaelfirdoussi.netlify.app) · [GitHub](https://github.com/yahiaelfirdoussi)
+**Yahya Elfirdoussi** — Data Scientist & ML Engineer
+
+📧 [yahiaelfirdoussi7@gmail.com](mailto:yahiaelfirdoussi7@gmail.com)  
+🔗 [LinkedIn](https://linkedin.com/in/yahya-elfirdoussi) · [Portfolio](https://yahiaelfirdoussi.netlify.app) · [GitHub](https://github.com/yahiaelfirdoussi)
+
+---
+
+## Open to work
+
+I am actively looking for Data Science and ML Engineering opportunities — freelance projects, collaborations, or full-time roles. If you are working on something interesting, feel free to reach out via [LinkedIn](https://linkedin.com/in/yahya-elfirdoussi) or [email](mailto:yahiaelfirdoussi7@gmail.com).
